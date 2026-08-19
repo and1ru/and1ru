@@ -62,6 +62,8 @@ I have experience working with JWT authentication, role-based access control, We
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </span>
 
+## My Skills Include
+
 <p align="left"> 
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
