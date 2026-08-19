@@ -3,15 +3,11 @@
 
 &nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="andres.felipevs2700@gmail.com">andres.felipevs2700@gmail.com</a>
+I'm a Full Stack Developer focused on building modern, scalable, and maintainable web applications. I work mainly with React, TypeScript, Node.js, Express, MySQL, and MongoDB.
+
+I enjoy developing complete applications, from designing responsive user interfaces and reusable components to building REST APIs, authentication systems, database architectures, and real-time features.
+
+I have experience working with JWT authentication, role-based access control, WebSockets, form validation, testing, and relational and NoSQL databases. I'm also interested in writing clean, maintainable code and continuously improving my software architecture and development practices.
 
 ## My Skills Include
 
@@ -65,3 +61,15 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </span>
+
+<p align="left"> 
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+  </a> 
+  <a href="YOUR_PORTFOLIO_URL"> 
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> 
+  </a> 
+  <a href="mailto:YOUR_EMAIL"> 
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> 
+  </a>
+</p>
