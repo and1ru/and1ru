@@ -37,9 +37,8 @@ I have experience working with JWT authentication, role-based access control, We
   <img src="https://img.shields.io/badge/socketdotio-%23010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white">
 </span>
 
-<h4>DabaBases</h4>
+<h4>Databases</h4>
 <span>
-  
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
@@ -62,7 +61,7 @@ I have experience working with JWT authentication, role-based access control, We
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </span>
 
-## My Skills Include
+## Connect With Me
 
 <p align="left"> 
   <a href="https://linkedin.com/in/andr%C3%A9s-felipe-vanegas" target="_blank">
