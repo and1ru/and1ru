@@ -65,13 +65,13 @@ I have experience working with JWT authentication, role-based access control, We
 ## My Skills Include
 
 <p align="left"> 
-  <a href="https://linkedin.com/in/andr%C3%A9s-felipe-vanegas">
+  <a href="https://linkedin.com/in/andr%C3%A9s-felipe-vanegas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
   </a> 
-  <a href=""> 
+  <a href="" target="_blank"> 
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> 
   </a> 
-  <a href="andres.felipevs2700@gmail.com"> 
+  <a href="andres.felipevs2700@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> 
   </a>
 </p>
