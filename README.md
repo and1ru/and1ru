@@ -54,6 +54,12 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/Vitest-%23252529.svg?style=for-the-badge&logo=vitest&logoColor=FCC72B">
 </span>
 
+<h4>CI/CD</h4>
+<span>
+<img src="https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white">
+  <img src="https://img.shields.io/badge/octopus%20deploy-%230D80D8.svg?style=for-the-badge&logo=octopusdeploy&logoColor=white">
+</span>
+
 <h4>Tools</h4>
 <span>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
